@@ -1,6 +1,7 @@
 var superPower = function(a,b){
 
-   const number = Number(b.join(''));
+   const number = Number(b.join('')); //  to join the number from Array;
+   
    const result = Math.pow(a,number)
    return result;
     
