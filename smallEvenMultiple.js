@@ -1,1 +1,8 @@
-console.log(2*2);
+var smallestEvenMultiple = function(n) {
+    if(n%2==0){
+        return n;
+    }
+    else{
+        return n*2;
+    }
+  };
