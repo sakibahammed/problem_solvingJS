@@ -20,3 +20,7 @@ const rob = function(nums){
 
 
 console.log(rob([1,2,3,4]));
+
+
+
+136
