@@ -15,7 +15,7 @@ var merge = function(nums1 , nums2) {
 
     let sortedArray = ([...array1,...array2]);
     console.log(sortedArray);
-   console.log(sortedArray.sort());
+  return (sortedArray.sort());
 };
 
 
